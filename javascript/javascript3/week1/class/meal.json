@@ -1,0 +1,7 @@
+{
+    "Order_name":"order1",
+    "Order id":1,
+    "Price":45,
+    "List_of_drinks":["cola","orange juice"],
+    "Order_extras": true
+}

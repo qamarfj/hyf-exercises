@@ -1,0 +1,15 @@
+ [{
+"Order name": "order1",
+"Order id":1,
+"Price":250,
+"List of drinks":["cola","apple juice"],
+"Order extras": [ "cheese", "lettuce"]
+},
+{
+    "Order name": "order2",
+    "Order id":2,
+    "Price":200,
+    "List of drinks":["orange juice","apple juice"],
+    "Order extras": [ "extra chile", "lettuce"]
+    }]
+    
